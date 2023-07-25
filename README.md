@@ -18,7 +18,7 @@
   
 - 📫 Reach me at **narrajayani@gmail.com**
 
-- ⚡ Fun fact **: I love movies & music.**
+- ⚡ Fun fact **: If your code works, don't touch it!**
 
 - 🚺 Pronoun: **She/Her**
 
