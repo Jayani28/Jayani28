@@ -16,7 +16,7 @@
 
 - 🎓 Persuing B.E. in Computer Science and Engineering at RMK Engineering College(Final year).
   
-- 📫 How to reach me **narrajayani@gmail.com**
+- 📫 Reach me at **narrajayani@gmail.com**
 
 - ⚡ Fun fact **: I love movies & music.**
 
