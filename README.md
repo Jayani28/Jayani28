@@ -5,11 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [Jayani28](Jayani28)
 
-- 💬 Ask me about **python, frontend development.**
+- 💬 Ask me about **Programming, Web development.**
 
+- 🎓 Persuing B.E. in Computer Science and Engineering at RMK Engineering College.
+  
 - 📫 How to reach me **narrajayani@gmail.com**
 
-- ⚡ Fun fact **I love movies & music.**
+- ⚡ Fun fact **: I love movies & music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
