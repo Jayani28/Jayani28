@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayani</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **Backend development.**
 
@@ -7,11 +7,13 @@
 
 - 💬 Ask me about **Programming, Web development.**
 
-- 🎓 Persuing B.E. in Computer Science and Engineering at RMK Engineering College.
+- 🎓 Persuing B.E. in Computer Science and Engineering at RMK Engineering College(Final year).
   
 - 📫 How to reach me **narrajayani@gmail.com**
 
 - ⚡ Fun fact **: I love movies & music.**
+
+- 🚺 Pronoun: **She/Her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
