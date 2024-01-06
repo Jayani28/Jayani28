@@ -8,11 +8,11 @@
 
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Backend development.**
+- 🌱 I’m currently learning **DataScience & Backend development.**
 
 - 👨‍💻 All of my projects are available at [Jayani28](Jayani28)
 
-- 💬 Ask me about **Programming, Web development.**
+- 💬 Ask me about **Python programming, Web development.**
 
 - 🎓 Persuing B.E. in Computer Science and Engineering at RMK Engineering College(Final year).
   
