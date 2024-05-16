@@ -5,16 +5,17 @@
        alt="snake" /></a>
 </div> -->
 
+<!--
 [![Jayani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayani28&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="center">A passionate full stack developer</h3>
-
+-->
 - 🌱 I’m currently learning **DataScience & Backend development.**
 
 - 👨‍💻 All of my projects are available at [Jayani28](Jayani28)
 
-- 💬 Ask me about **Python programming, Web development.**
+- 💬 Ask me about **Data Science and Web development.**
 
-- 🎓 Persuing B.E. in Computer Science and Engineering at RMK Engineering College(Final year).
+- 🎓 Persued B.E. in Computer Science and Engineering at RMK Engineering College.
   
 - 📫 Reach me at **narrajayani@gmail.com**
 
